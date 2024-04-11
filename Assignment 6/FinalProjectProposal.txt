@@ -1,0 +1,28 @@
+2D Boids
+
+I would bet that you are familiar with these but for my reference I'll explain
+
+Boids are a simulation of flocking birds that follow a few relatively simple rules that are stated below:
+
+Alignment: 
+Align with the average orientation of the local group (Main trajectory of the flock)
+
+Separation: 
+Avoid being too close to neighbors (No conflicts inside the flock)
+
+Cohesion: 
+Move toward the average position of the local group (Compactness of the flock)
+
+I also want to include a few other things I have been wanting to experiment with
+each of these are listed below please let me know if you thing I am reaching too high for 
+the extent of this course.  it shouldn't be too difficult to pare things down to a more 
+manageable goal by using code other people have already written in place of writing everything 
+from scratch. 
+
+Custom pseudo-random generator
+Dear ImGui (dynamic user interfaces)
+OpenGL (graphics rendering)
+GLFW (window creation, user input handling, context management?)
+GLM (mathematics operations)
+
+
